@@ -1,0 +1,82 @@
+html{
+    background: url(https://cdn.wallpapersafari.com/27/10/fcwFtC.jpg);
+    background-repeat: no-repeat; /* Prevents tiling of the image */
+    background-size: contain; /* Ensures the whole image fits within the viewport */
+    background-position: center; /* Centers the image within the page */
+    background-attachment: fixed; /* Keeps the background still during scrolling */
+   
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+.b .b{
+    background-color: #f0f0f0;
+}
+.text{
+    color: brown !important;
+}
+.two{
+    width: 700px;
+    background-color: #E3F2FD;
+}
+.second{
+    float: right;
+    border: 15px blue solid;
+    background-color: black;
+    padding: 5px;
+}
+.first{
+    width: 500px;
+    height: 300px;
+    border: 15px purple solid;
+    background-color: black;
+    padding: 5px;
+}
+h1{ 
+    font-family: cursive;
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.751)
+}
+.img{
+    display: inline-flex;
+    background-color: lightgoldenrodyellow;
+}
+h2{
+    width: 900px;
+   background-color: white;
+   font-weight: 900;
+}
+textarea{
+    background-color: #FFDAB9; /* Peach Puff */
+
+    border: 5px solid black;
+}
+.buton{
+    width: 400px;
+    height: 100px;
+
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buton .a{
+    width: 300px;
+    height: 100;
+}
+center{
+    
+    background-color: white;
+    width: 500px;
+}
+.image1{
+    border: 12px purple solid;
+    width: 500px;
+    pad: 5px;
+}
+.image2{
+    width: 500px;
+height: 1000px;
+float: right;
+}
